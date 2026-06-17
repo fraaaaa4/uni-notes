@@ -27,7 +27,7 @@ Appunti dei miei tre anni alla Triennale di Informatica in UNIMIB.
 - **Programmazione C++**: PDF con tutta la teoria + esempi di QT + relazione del progetto
 - **Ricerca Operativa**: PDF su ogni capitolo + esercizi svolti su ogni capitolo (la maggior parte con spiegazioni) + teoria completa dalle slide + teoria con spiegazione. `Teoria ROPR.pdf` ha tutta la teoria di tutte le slide del prof., mentre `Problemi ROPR.pdf` ha quasi tutta la teoria, più varie spiegazioni utili
 
-### Progetti
+### Progetti
 - **C++**: classe `SortedArray` con specifiche date dal prof. Progetto QT: interfaccia di login basato su password
 - **Linguaggi di programmazione**: estensione "object oriented" di Prolog e LISP. Ognuna di queste ha il proprio README che spiega come usarle
 - **Sistemi operativi**: reimplementazione della bash chiamata dsh (o qualcosa del genere, non ricordo
